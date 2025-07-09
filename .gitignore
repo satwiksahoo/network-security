@@ -1,2 +1,4 @@
 venv/
 .env
+test_mongodb.py
+networksecurity/logging/logs/
